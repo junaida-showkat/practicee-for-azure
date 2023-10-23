@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\practicee for azure\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Desktop\practicee for azure\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Desktop\practicee for azure\bin\Debug\net7.0\practicee for azure.staticwebassets.runtime.json
+C:\Users\user\Desktop\practicee for azure\bin\Debug\net7.0\practicee for azure.exe
+C:\Users\user\Desktop\practicee for azure\bin\Debug\net7.0\practicee for azure.deps.json
+C:\Users\user\Desktop\practicee for azure\bin\Debug\net7.0\practicee for azure.runtimeconfig.json
+C:\Users\user\Desktop\practicee for azure\bin\Debug\net7.0\practicee for azure.dll
+C:\Users\user\Desktop\practicee for azure\bin\Debug\net7.0\practicee for azure.pdb
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\practicee for azure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\practicee for azure.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\practicee for azure.AssemblyInfo.cs
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\practicee for azure.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\practicee for azure.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\practicee for azure.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\practicee for azure.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\staticwebassets\msbuild.practicee for azure.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\staticwebassets\msbuild.build.practicee for azure.props
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.practicee for azure.props
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.practicee for azure.props
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\scopedcss\bundle\practicee for azure.styles.css
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\scopedcss\projectbundle\practicee for azure.bundle.scp.css
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\practicee for azure.dll
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\refint\practicee for azure.dll
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\practicee for azure.pdb
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\practicee for azure.genruntimeconfig.cache
+C:\Users\user\Desktop\practicee for azure\obj\Debug\net7.0\ref\practicee for azure.dll

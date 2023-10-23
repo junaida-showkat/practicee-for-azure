@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/65cb6262-956a-4d62-95db-ee4bdaa7776d/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/practiceazure"
+}
